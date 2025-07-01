@@ -7,7 +7,7 @@
 
 - 🔨 Currently building: **Portfolify – Build Your Digital Presence**
 - 🧠 Tech Stack: **MERN** (MongoDB, Express, React, Node.js) + **Socket.io** + **Tailwind CSS**
-- 🤖 Integrating features like **real-time chat**, **GPT**, and **portfolio templates**
+- 🤖 Integrating features like **real-time chat** **GPT**, and **portfolio templates**
 - 📚 Learning: **Next.js**, **GraphQL**, and **microservices architecture**
 - 🎧 Favorite Song: _**Perfect**_ by Ed Sheeran
 - 💬 Ask me about **React**, **JWT**, **Socket.io**, and building scalable apps
